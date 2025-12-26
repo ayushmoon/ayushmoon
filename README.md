@@ -40,13 +40,14 @@ I am a **B.Tech IT Student** currently mastering the Java Full-Stack ecosystem. 
 
 ---
 
-### 📊 GitHub Activity
+### 📊 My Coding Journey
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ushmoon&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="ushmoon's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ushmoon&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" alt="ushmoon's GitHub stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ushmoon&theme=dracula&hide_border=true&background=0D1117" alt="ushmoon's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushmoon&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" alt="ushmoon's Top Langs" />
 </p>
 
 ---
