@@ -43,11 +43,11 @@ I am a **B.Tech IT Student** currently mastering the Java Full-Stack ecosystem. 
 ### 📊 My Coding Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ushmoon&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" alt="ushmoon's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushmoon&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" alt="ushmoon's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushmoon&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" alt="ushmoon's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmoon&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" alt="ushmoon's Top Langs" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ I am a **B.Tech IT Student** currently mastering the Java Full-Stack ecosystem. 
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushmoon&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmoon&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
