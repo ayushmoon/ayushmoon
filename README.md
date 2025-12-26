@@ -1,51 +1,66 @@
-# ⚡ Welcome to my Digital Space! I'm Ayush
+<h1 align="center">Hi, I'm Ayush! 👋</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Java_Developer-blue?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Origami-Artist-green?style=for-the-badge&logo=ghost" />
 </p>
 
-### 👨‍💻 About Me
-I am a **B.Tech IT Student** on a mission to master the **Java Full-Stack** ecosystem. I thrive at the intersection of logical backend architecture and creative frontend design.
-
-- 🔭 **Current Focus:** Building scalable microservices with **Spring Boot**.
-- 🏆 **Major Win:** Secured **1st Place** at the College Inter-Departmental Hackathon.
-- 🧠 **Interests:** Exploring the depths of **Data Mining** and **AI** applications.
-- 🎨 **Creative Outlet:** I transform flat sheets of paper into complex 3D art (**Origami Expert** 🐸).
-
----
-
-### 🛠️ Tech Stack & Arsenal
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-
----
-
-### 📊 My Coding Journey
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=visual_studio_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=visual_studio_dark&hide_border=true" />
+  <a href="https://www.linkedin.com/in/ayush-moon-742716258">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ayushmoon36@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+I am a **B.Tech IT Student** currently mastering the Java Full-Stack ecosystem. I enjoy building things that live on the internet, whether that be websites, applications, or anything in between.
+
+- 🔭 **Current Focus:** Microservices with **Spring Boot** & **React**.
+- 🏆 **Hackathon Winner:** Secured **1st Place** at the College Inter-Dept Hackathon.
+- 🧠 **Interests:** Data Mining, AI, and designing efficient algorithms.
+- 🎨 **Creative Corner:** I'm an **Origami enthusiast** 🐸. I believe coding and paper folding share the same soul: precision and patience.
+
+---
+
+### 🛠️ My Tech Arsenal
+
+<div align="center">
+
+| | Technologies |
+|---:|:---|
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ushmoon&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="ushmoon's GitHub stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ushmoon&theme=dracula&hide_border=true&background=0D1117" alt="ushmoon's GitHub streak" />
 </p>
 
 ---
 
 ### 🌟 Featured Achievement
-> **"Won 1st Prize at Inter-dept Hackathon"** > *Developed a solution that [Briefly describe what your project did here, e.g., optimized student library queues] using Java and SQL.*
+> **"Won 1st Prize at Inter-dept Hackathon"** > *Developed an innovative solution using Java and SQL to solve [Insert one sentence here about your project, e.g., real-time waste management].*
 
 ---
 
-### 🤝 Let's Collaborate!
-I'm always open to discussing **Open Source**, **AI research**, or just sharing origami patterns.
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ayush-moon-742716258" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ayushmoon36@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushmoon&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
 </p>
 
----
 <p align="center">
   <i>"Code is like paper; with the right folds, you can create anything."</i>
 </p>
